@@ -92,3 +92,6 @@ echo Me
 echo Me
 echo Me
 echo Me
+cat name.txt
+./script.sh 2> stderr.txt > stdout.txt < name.txt
+./script.sh < name.txt
