@@ -147,3 +147,4 @@ man grep
 cat name.txt
 sed "s/r/2" name.txt
 sed "s/r/2/" name.txt
+sed "s/free/f233/" name.txt
