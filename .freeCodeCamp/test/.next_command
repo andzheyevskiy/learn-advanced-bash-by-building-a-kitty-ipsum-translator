@@ -273,3 +273,4 @@ __vsc_prompt_cmd_original
 man diff --color
 man diff --color
 diff kitty_ipsum_1.txt doggy_ipsum_1.txt --color
+./translate.sh kitty_ipsum_2.txt > doggy_ipsum_2.txt
