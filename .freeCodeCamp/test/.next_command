@@ -210,3 +210,4 @@ echo -e "\nNumber of characters:" >> kitty_info.txt
 man wc
 cat kitty_ipsum_2.txt
 cat kitty_ipsum_2.txt
+grep "meow[a-z]*" kitty_ipsum_2.txt --color
