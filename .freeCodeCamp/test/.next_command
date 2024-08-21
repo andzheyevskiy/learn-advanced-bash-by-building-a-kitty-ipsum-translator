@@ -110,3 +110,4 @@ wc kitty_ipsum_1.txt -w
 wc kitty_ipsum_1.txt -c
 wc kitty_ipsum_1.txt -c
 wc kitty_ipsum_1.txt -m
+wc kitty_ipsum_1.txt
