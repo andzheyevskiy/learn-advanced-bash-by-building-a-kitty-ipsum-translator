@@ -79,3 +79,4 @@ read NAME < name.txt
 echo $NAME
 echo ME
 echo $NAME
+cat
