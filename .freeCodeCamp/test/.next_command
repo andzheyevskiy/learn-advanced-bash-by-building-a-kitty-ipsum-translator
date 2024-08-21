@@ -156,3 +156,8 @@ __vsc_prompt_cmd_original
 cat name.txt
 __vsc_prompt_cmd_original
 grep meow[a-z]* kitty_ipsum_1.txt -n
+grep meow[a-z]* kitty_ipsum_1.txt -n
+grep -m meow[a-z]* kitty_ipsum_1.txt
+grep n meow[a-z]* kitty_ipsum_1.txt
+grep -n meow[a-z]* kitty_ipsum_1.txt
+grep -n meow[a-z]* kitty_ipsum_1.txt
