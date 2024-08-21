@@ -66,3 +66,5 @@ echo hello bash >> stdout.txt
 echo hello bash > stdout.txt
 > stdout.txt
 bad_command
+bad_command > stdout.txt
+bad_command > stderr.txt
