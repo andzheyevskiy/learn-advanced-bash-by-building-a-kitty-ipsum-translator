@@ -154,3 +154,5 @@ sed "s/freecodecamp/f233C0d3C@mp/i" name.txt > name.txt
 sed "s/freecodecamp/f233C0d3C@mp/i" < name.txt
 __vsc_prompt_cmd_original
 cat name.txt
+__vsc_prompt_cmd_original
+grep meow[a-z]* kitty_ipsum_1.txt -n
