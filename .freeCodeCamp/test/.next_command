@@ -207,3 +207,6 @@ wc -w < kitty_ipsum_2.txt
 wc -w < kitty_ipsum_2.txt >> kitty_info.txt
 echo -e "\n Number of characters:" >> kitty_info.txt
 echo -e "\nNumber of characters:" >> kitty_info.txt
+man wc
+cat kitty_ipsum_2.txt
+cat kitty_ipsum_2.txt
