@@ -65,3 +65,4 @@ echo hello bash > stdout.txt
 echo hello bash >> stdout.txt
 echo hello bash > stdout.txt
 > stdout.txt
+bad_command
