@@ -69,3 +69,5 @@ bad_command
 bad_command > stdout.txt
 bad_command > stderr.txt
 bad_command 2> stderr.txt
+bad_command > stdout.txt
+echo hello bash > stdout.txt
