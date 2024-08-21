@@ -120,3 +120,4 @@ wc kitty_ipsum_1.txt -l >> kitty_info.txt
 cat kitty_ipsum_1.txt
 cat kitty_ipsum_1.txt
 echo -e "\nNumber of words:" >> kitty_info.txt
+cat kitty_ipsum_1.txt
