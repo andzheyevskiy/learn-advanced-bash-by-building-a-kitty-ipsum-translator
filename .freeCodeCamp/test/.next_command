@@ -84,3 +84,4 @@ cat name.txt
 cat < name.txt
 echo Me
 touch script.sh
+chmod +x script.sh
